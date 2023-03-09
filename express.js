@@ -14,7 +14,7 @@ const pool = new Pool({
   database: 'people-filter',
 })
 
-//app.use(express.json());
+app.use(express.json());
 
 // start developing our routing
 // get all from tables
