@@ -1,13 +1,20 @@
-# firstFullStackApp
+<h1 align="center" id="title">firstFullStackApp</h1>
 
-## Create A Very Basic Full Stack App from scratch to ensure proficiency to allow for more robust build later
+<p align="center"><img src="https://socialify.git.ci/Spawn9986/firstFullStackApp/image?language=1&amp;name=1&amp;owner=1&amp;theme=Light" alt="project-image"></p>
 
-Concept: Allow the client/ User to enter text within a search bar on a webpage to search for people by various categories such as age, gender, nationality, location, occupation, and religion and return/ display the results on the web page.
+<p id="description">Create a basic full stack app that will allow the client/ User to enter text within a search bar on a webpage to search for people by various categories such as age gender nationality location occupation and religion and return/ display the results on the web page.</p>
 
-The App will have the following parts:
+<h2>Project Screenshots:</h2>
 
-Front End Component (Client side connecting our HTML, CSS, and JS files)
+<img src="https://github.com/Spawn9986/firstFullStackApp/blob/main/images/final.png" alt="project-screenshot" width="382" height="192/">
 
-Back End Component (Server using Node.js and Express.js)
+  
+  
+<h2>💻 Built with</h2>
 
-Database using PostgresSQL
+Technologies used in the project:
+
+*   Express.js
+*   Node.js
+*   PostgreSQL
+*   Docker
