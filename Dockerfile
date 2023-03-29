@@ -18,4 +18,5 @@ COPY . .
 EXPOSE 8000
 
 # When the image is finally run in a container, execute this:
-CMD [ "nodemon", "express.js" ]
+# ensure to change the file
+CMD [ "nodemon", "express.js" ] 
